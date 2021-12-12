@@ -1,7 +1,7 @@
 package com.ea.springgittest;
 
 public class Muluadam {
-    public static void main(String[] args) {
-        System.out.println("This is from my branch");
+    void hello(){
+        System.out.println("Hello from the other side ");
     }
 }
