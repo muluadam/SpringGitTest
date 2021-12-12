@@ -2,7 +2,7 @@ package com.ea.springgittest;
 
 public class Natnael {
 
-public void car(){
-
-}
+    public String nat(){
+        return "Hello ";
+    }
 }
