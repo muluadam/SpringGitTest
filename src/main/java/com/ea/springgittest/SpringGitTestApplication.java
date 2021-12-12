@@ -14,7 +14,8 @@ public class SpringGitTestApplication {
         SpringApplication.run(SpringGitTestApplication.class, args);
 
         System.out.println("This is Yohannes calling");
-    }
+        System.out.println("This is Yohannes calling 2");
+    }gi
 }
 
 
