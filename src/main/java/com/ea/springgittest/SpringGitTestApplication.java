@@ -12,8 +12,7 @@ public class SpringGitTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringGitTestApplication.class, args);
-
-
+        Obsa.print();
     }
 
 
