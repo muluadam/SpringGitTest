@@ -13,6 +13,7 @@ public class SpringGitTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringGitTestApplication.class, args);
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         System.out.println("This is Yohannes");
     }
@@ -21,6 +22,9 @@ public class SpringGitTestApplication {
 =======
 
 
+=======
+        Obsa.print();
+>>>>>>> 6bf7c2e8ff33757e5c49889fb4ce21fc29f684c6
     }
 
 
@@ -30,3 +34,4 @@ public class SpringGitTestApplication {
 // making some changesss
 //this is another test
 >>>>>>> 867d5dcf226df6a3a012a6db6099109e6e25f50e
+
