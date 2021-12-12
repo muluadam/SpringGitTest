@@ -8,6 +8,7 @@ public class SpringGitTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringGitTestApplication.class, args);
-    }
 
+        System.out.println("This is Yohannes");
+    }
 }
